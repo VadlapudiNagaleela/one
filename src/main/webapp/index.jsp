@@ -728,7 +728,7 @@
             },
             {
                 id: 'laptops',
-                name: 'Laptops',
+                name: 'lappy',
                 icon: 'fa-laptop'
             },
             {
