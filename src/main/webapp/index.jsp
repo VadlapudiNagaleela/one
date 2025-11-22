@@ -743,7 +743,7 @@
             },
             {
                 id: 'footwear',
-                name: 'Footwear',
+                name: 'Foot',
                 icon: 'fa-shoe-prints'
             },
             {
