@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Winter Collection — Premium Picks 2025</h1>
+                <h1>Summer Collection — Premium Picks 2025</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <i class="fas fa-arrow-right"></i></button>
@@ -582,7 +582,7 @@
         <!-- Categories -->
         <section class="section container" aria-labelledby="cat-title">
             <div class="title" id="cat-title">
-                <h2 class="section-title">Shop by Category</h2>
+                <h2 class="section-title">Shop by leela Category</h2>
                 <p class="muted">Browse through our wide range of products across curated categories.</p>
             </div>
 
